@@ -5,7 +5,7 @@ This family of MNIST classifiers are classicial-quantum hybrid circuits using Ke
 
 The architecture of the networks is shown below.
 
-![atchitecture](https://user-images.githubusercontent.com/22792633/158081935-d8f6976e-faae-4d96-847d-55a96b6bf427.png)
+<img src="https://user-images.githubusercontent.com/22792633/158081935-d8f6976e-faae-4d96-847d-55a96b6bf427.png"  width=50% height=50%>
 
 The training loss and accuracy results are:
                        loss     accuracy
