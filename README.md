@@ -5,16 +5,10 @@ This family of MNIST classifiers are classicial-quantum hybrid circuits using Ke
 
 The architecture of the networks is shown below.
 
-<img src="https://user-images.githubusercontent.com/22792633/158081935-d8f6976e-faae-4d96-847d-55a96b6bf427.png"  width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/22792633/158081935-d8f6976e-faae-4d96-847d-55a96b6bf427.png"  width=56% height=56%>
+
+The main components of the hybrid network are a classicial feed-forward network, a data encoding circuit, and a quantum neural network circuit. By employing different numbers of qumodes and cutoff dimension, the network produces output vectors of desired size. They are interpreted as one-hot encoded labels which are then compared against the true labels.
 
 The training loss and accuracy results are:
-                       loss     accuracy
-2-qumode classifier:
-3-qumode classifiers:
-           8 classes:  0.0563.    
-          10 classes:
-4-qumode classifier:
-5-qumode classifier:
-6-qumode classifier:
-7-qumode classifier:
-8-qumode classifier:
+
+<img src="https://user-images.githubusercontent.com/22792633/158082204-d27eabec-f035-4d62-bb7d-c27b6ef31b39.png" width=40% height=40%>
