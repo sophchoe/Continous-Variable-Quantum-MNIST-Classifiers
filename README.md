@@ -11,4 +11,4 @@ The main components of the hybrid network are a classicial feed-forward network,
 
 The training loss and accuracy results are:
 
-<img src="https://user-images.githubusercontent.com/22792633/158082204-d27eabec-f035-4d62-bb7d-c27b6ef31b39.png" width=40% height=40%>
+<img src="https://user-images.githubusercontent.com/22792633/159094360-2c1819eb-d744-41bf-bd69-b661df8df180.png" width=36% height=36%>
